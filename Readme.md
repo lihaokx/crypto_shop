@@ -7,5 +7,5 @@ This is a website to buy crypto currency. You can visit it at this link http://h
 ### Technology
 1. HTML/CSS
 2. PHP, SQL
-3. Database: Mysql 
+3. Database: MySQL 
 
